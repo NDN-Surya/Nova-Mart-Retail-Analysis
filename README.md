@@ -8,6 +8,7 @@ This project involves analyzing sales data from Nova Mart to uncover insights in
 
 The primary objectives of this analysis are:
 
+- **Campaign Performance**: Evaluate the impact of massive promotional efforts on Nova-branded products across all 50 stores during the campaigns.
 - **Sales Performance**: Evaluate overall sales metrics to assess the company's financial health.
 - **Customer Behavior**: Understand purchasing patterns to identify key customer segments.
 - **Product Trends**: Analyze product performance to inform inventory and marketing strategies.

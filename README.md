@@ -19,4 +19,4 @@ The primary objectives of this analysis are:
 The repository contains the following key components:
 
 - **`Data Analysis & Visualization.ipynb`**: Jupyter Notebook containing the data analysis process, including data cleaning, exploration, and visualization.
-- **`Analysis Presentation.pdf`**: A presentation slides  summarizing the key findings and insights from the analysis. ( DATA STORYTELLING INSPIRED FROM Storytelling with Data: A Data Visualization Guide for Business Professionals BOOK BY COLE  NUSSBAUME KNAFLIC r 
+- **`Analysis Presentation.pdf`**: A presentation slides  summarizing the key findings and insights from the analysis. ( DATA STORYTELLING INSPIRED FROM Storytelling with Data: A Data Visualization Guide for Business Professionals BOOK BY COLE  NUSSBAUME KNAFLIC 

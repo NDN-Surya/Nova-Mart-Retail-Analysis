@@ -20,15 +20,23 @@ The primary objectives of this analysis are:
 The repository contains the following key components:
 
 - **`Data Analysis & Visualization.ipynb`**: Jupyter Notebook containing the data analysis process, including data cleaning, exploration, and visualization.
-- **`Analysis Presentation.pdf`**: A presentation slides  summarizing the key findings and insights from the analysis. ( DATA STORYTELLING INSPIRED FROM Storytelling with Data: A Data Visualization Guide for Business Professionals BOOK BY COLE  NUSSBAUME KNAFLIC
+- **`Analysis Presentation.pdf`**: A set of presentation slides summarizing the key findings and insights from the analysis.  
+  - **Data Storytelling Approach**: Inspired by *"Storytelling with Data: A Data Visualization Guide for Business Professionals"* by Cole Nussbaumer Knaflic, this presentation employs clear and effective visuals to convey insights.
 
-  ---
+---
 
 ## Tools and Libraries
 
 - **Python**: Core programming language for analysis.
-- **Pandas**: Data manipulation and analysis.
+- **Pandas & NumPy**: Data manipulation and analysis.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Jupyter Notebook**: Interactive environment for exploratory analysis.
+
+---
+
+## Further Information
+
+To delve deeper into the analysis and results, refer to the files in the repository:
+
 
 ---
